@@ -1,1 +1,1 @@
-web: python3 test_bot.py
+web: python3 test_bot.py  petrol_weather_BOT.py
