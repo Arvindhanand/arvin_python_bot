@@ -1,0 +1,1 @@
+web: python3 petrol_weather_BOT.py
